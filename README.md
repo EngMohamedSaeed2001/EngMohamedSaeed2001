@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Saeed</h1>
-<h3 align="center">A passionate full-stack developer from Egypt</h3>
+<h3 align="center">I'm a Computer Science Student at Cairo University 👨‍💻| A passionate full-stack developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engmohamedsaeed2001&label=Profile%20views&color=0e75b6&style=flat" alt="engmohamedsaeed2001" /> </p>
 
